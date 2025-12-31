@@ -4,11 +4,11 @@ from brain import get_response
 # Page config
 st.set_page_config(
     page_title="My Local AI Assistant",
-    page_icon="🤖",
+    
     layout="centered"
 )
 
-st.title("🤖 My Private Local AI Assistant")
+st.title("My Private Local AI Assistant")
 st.markdown("""
 Powered by **Ollama** • Fully offline • No data leaves your device  
 Built following the tutorial:  

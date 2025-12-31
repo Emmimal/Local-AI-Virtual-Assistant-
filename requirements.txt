@@ -1,0 +1,29 @@
+# Core LLM & LangChain
+ollama
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+
+# Chat models & agents
+langchain[agents]  # Ensures agent support
+
+# Voice: Speech-to-Text
+openai-whisper
+speechrecognition
+pyaudio
+
+# Voice: Text-to-Speech
+pyttsx3
+
+# Document loading & RAG
+pypdf
+torch
+torchaudio
+
+# Web UI options
+gradio
+streamlit
+
+# Utilities
+python-dotenv
